@@ -19,7 +19,7 @@ Pod::Spec.new do |spec|
   spec.requires_arc           = true
 
   spec.public_header_files    = 'CBHBenchmarkKit/*.h'
-  spec.private_header_files   = 'CBHBenchmarkKit/_*.h'
+  #spec.private_header_files   = 'CBHBenchmarkKit/_*.h'
   spec.source_files           = 'CBHBenchmarkKit/*.{h,m}'
 
 end
