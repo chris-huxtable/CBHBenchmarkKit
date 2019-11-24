@@ -35,8 +35,8 @@ CBHBenchmarkDuration *spread = [benchmark spread];
 
 
 /// Mean and Median
-CBHBenchmarkDuration *mean = [benchmark spread];
-CBHBenchmarkDuration *median = [benchmark spread];
+CBHBenchmarkDuration *mean = [benchmark mean];
+CBHBenchmarkDuration *median = [benchmark median];
 
 
 /// Variance, Standard Deviation, Standard Error
